@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cataleg>
+<pelicula id="P1">
+<titol>El laberint del faune</titol>
+<any>2006</any>
+<genere>fantasia</genere>
+<durada>118 minuts</durada>
+<actors>
+<actor>Ivana Baquero</actor>
+<actor>Sergi Lopez</actor>
+</actors>
+</pelicula>
+
+<pelicula id="P2">
+<titol>Societast Morta</titol>
+<any>1989</any>
+<genere>Drama</genere>
+<durada>128 minuts</durada>
+<actors>
+<actor>Robin Williams</actor>
+<actor>Ethan Hawke</actor>
+<actor>Robert Sean Leonard</actor>
+</actors>
+</pelicula>
+
+<pelicula id="P3">
+<titol>Interestellar</titol>
+<any>2014</any>
+<genere>Ciencia-ficció</genere>
+<durada>169 minuts</durada>
+<actors>
+<actor>Matthew McConaughey</actor>
+<actor>Anne Hathaway</actor>
+</actors>
+</pelicula>
