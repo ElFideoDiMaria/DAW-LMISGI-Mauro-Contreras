@@ -1,0 +1,53 @@
+{
+"enquestes": [
+{
+"id": 1,
+"titol": "Valoració del servei d'habitacions",
+"activa": true,
+"preguntes": [
+{
+"ordre": 1,
+"text": "Com de neta has trobat l'habitació?",
+"tipus": "opció_múltiple",
+"opcions": [
+"Molt bruta",
+"Bruta",
+"Neta",
+"Molt neta",
+]
+},
+{
+"ordre": 2,
+"text": "Com valores l'atenció al client?",
+"tipus": "opció_múltiple",
+"opcions": [
+"Molt dolenta",
+"Dolenta",
+"Bona",
+"Molt bona",
+}
+]
+},
+{
+"id": 2,
+"titol": "Quants dies a la setmana prefereixes treballar a distància?",
+"activa": false,
+"preguntes": [
+{
+"ordre": 1,
+"text": "Quants dies treballes presencialment?",
+"tipus": "opció_múltiple",
+"opcions": [
+"Tota els dies laborals",
+"3-4",
+"1-2",
+"Cap dia",
+]
+},
+{
+"ordre": 2,
+"text": "Prefereixes treballar a distància o presencialment?",
+"tipus": "text_lliure",
+}
+]
+}
